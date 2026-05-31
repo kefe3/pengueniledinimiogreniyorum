@@ -12,4 +12,4 @@ Bu proje, çocukların ve gençlerin namaz rekatlarını ve kısa surelerin okun
 Projeyi bilgisayarınızda çalıştırmak için Python 3'ün kurulu olması yeterlidir:
 
 ```bash
-python main.py
+python pengueniledinimiogreniyorum-demo.py
