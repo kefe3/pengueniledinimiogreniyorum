@@ -13,3 +13,7 @@ Projeyi bilgisayarınızda çalıştırmak için Python 3'ün kurulu olması yet
 
 ```bash
 python pengueniledinimiogreniyorum-demo.py
+```
+Demo V2 için
+```bash
+python pemgueniledinimiogreniyorum-demo-v2.py
