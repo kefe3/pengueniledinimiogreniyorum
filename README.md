@@ -16,4 +16,4 @@ python pengueniledinimiogreniyorum-demo.py
 ```
 Demo V2 için
 ```bash
-python pemgueniledinimiogreniyorum-demo-v2.py
+python pengueniledinimiogreniyorum-demo-v2.py
